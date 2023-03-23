@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2014-01-30">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="雷慕沙">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="150.0"></viz:size>
+        <viz:position x="-87.93029" y="-6.8120565" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="1" label="《论老子生平及其观点》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="73.2"></viz:size>
+        <viz:position x="-385.6842" y="-20.206686" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="2" label="马若瑟">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="39.1"></viz:size>
+        <viz:position x="-212.76357" y="245.29176" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="3" label="《道德经》拉丁文、法文译文残篇">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="28.685715"></viz:size>
+        <viz:position x="-266.82776" y="299.6904" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="4" label="儒莲">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="61.600006"></viz:size>
+        <viz:position x="82.80825" y="-203.1144" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="5" label="鲍迪埃">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="61.600006"></viz:size>
+        <viz:position x="387.89572" y="110.462326" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="6" label="《论道教源流与传播》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="42.4"></viz:size>
+        <viz:position x="355.78366" y="-74.882454" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="7" label="《论印度哲学》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="36.91429"></viz:size>
+        <viz:position x="455.81955" y="-115.45826" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="8" label="《论东方诗歌》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="36.91429"></viz:size>
+        <viz:position x="436.17184" y="-12.7286825" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="9" label="《道德经，至高理性与道德之书》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="31.428574"></viz:size>
+        <viz:position x="515.2961" y="-46.167564" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="10" label="《中国图识》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="61.600006"></viz:size>
+        <viz:position x="387.89572" y="110.462326" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="11" label="《道德经，至高理性与道德之书》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="31.428574"></viz:size>
+        <viz:position x="550.1917" y="-128.17537" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="12" label="《对儒莲先生的最后回应》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="34.17143"></viz:size>
+        <viz:position x="516.40784" y="47.242233" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="13" label="《关于道和德的书》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="28.685715"></viz:size>
+        <viz:position x="150.35959" y="-298.50797" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="14" label="河上公注本">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="28.685715"></viz:size>
+        <viz:position x="78.4799" y="-347.15146" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="15" label="王弼注本">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="28.685715"></viz:size>
+        <viz:position x="137.3717" y="-410.2809" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="16" label="焦竑的《老子翼》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="25.942856"></viz:size>
+        <viz:position x="234.87747" y="-400.85983" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+      <node id="17" label="薛蕙的《老子集解》">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="31.428574"></viz:size>
+        <viz:position x="238.36697" y="-210.00926" z="0.0"></viz:position>
+        <viz:color r="236" g="81" b="72"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="1" source="0" target="2" weight="6.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="2" source="2" target="3" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="3" source="3" target="1" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="4" source="4" target="13" weight="6">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="5" source="0" target="2" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="6" source="0" target="4" weight="12.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="7" source="0" target="5" weight="15.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="8" source="4" target="5" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="9" source="13" target="14" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="10" source="13" target="15" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="11" source="13" target="15" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="12" source="13" target="16" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="13" source="13" target="17" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="14" source="5" target="6" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="15" source="5" target="7" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="16" source="5" target="8" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="17" source="5" target="9" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="18" source="5" target="10" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="19" source="5" target="11" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="20" source="8" target="12" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="21" source="9" target="12" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+      <edge id="22" source="10" target="12" weight="3.0">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
